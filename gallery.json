@@ -64,5 +64,15 @@
             "width": 0.39,
             "height": 0.445
         }
+    },
+    {
+        "id": 7,
+        "title": "A Bar at the Folies-Bergère",
+        "artist": "Edouard Manet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Bergère.jpg",
+        "dimensions": {
+            "width": 1.30,
+            "height": 0.96
+        }
     }
 ]

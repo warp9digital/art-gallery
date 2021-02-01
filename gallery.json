@@ -1,68 +1,75 @@
-[
-    {
-        "id": 1,
-        "title": "Mona Lisa",
-        "artist": "Leonardo Da Vinci",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
-        "dimensions": 
-        {
-            "width": 0.53,
-            "height": 0.77
-        }
-    
-    },
-    {
-        "id": 2,
-        "title": "Water Lillies",
-        "artist": "Claude Monet",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Claude_Monet_-_Water_Lilies_-_Google_Art_Project.jpg/1090px-Claude_Monet_-_Water_Lilies_-_Google_Art_Project.jpg",
-        "dimensions":
-        {
-            "width": 2.01,
-            "height": 2.005
-        }
-        
-    },
-    {
-        "id": 3,
-        "title": "The Starry Night",
-        "artist": "Vincent Van Gogh",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/VanGogh-starry_night.jpg",
-        "dimensions":
-        {
-            "width": 0.91,
-            "height": 0.7366
-        }
-        
-    },
-    {
-        "id": 4,
-        "title": "Wedding Supper",
-        "artist": "Martin van Meytens",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wedding_Supper_-_Martin_van_Meytens_-_Google_Cultural_Institute.jpg/810px-Wedding_Supper_-_Martin_van_Meytens_-_Google_Cultural_Institute.jpg",
-        "dimensions": {
-            "width": 3,
-            "height": 4
-        }
-    },
-    {
-        "id": 5,
-        "title": "Afternoon Tea at the Temple",
-        "artist": "Michel-Barthélémy Ollivier",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Michel-Barth%C3%A9l%C3%A9my_Ollivier_-_Afternoon_Tea_at_the_Temple_-_WGA16645.jpg",
-        "dimensions": {
-            "width": 0.68,
-            "height": 0.53
-        }
-    },
-    {
-        "id": 6,
-        "title": "Girl with a Pearl Earring",
-        "artist": "Johannesburg Vermeer",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/875px-Meisje_met_de_parel.jpg",
-        "dimensions": {
-            "width": 0.39,
-            "height": 0.445
-        }
-    }
+[{
+		"id": 1,
+		"title": "Mona Lisa",
+		"artist": "Leonardo Da Vinci",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
+		"dimensions": {
+			"width": 0.53,
+			"height": 0.77
+		}
+
+	},
+	{
+		"id": 2,
+		"title": "Water Lillies",
+		"artist": "Claude Monet",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Claude_Monet_-_Water_Lilies_-_Google_Art_Project.jpg/1090px-Claude_Monet_-_Water_Lilies_-_Google_Art_Project.jpg",
+		"dimensions": {
+			"width": 2.01,
+			"height": 2.005
+		}
+
+	},
+	{
+		"id": 3,
+		"title": "The Starry Night",
+		"artist": "Vincent Van Gogh",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/VanGogh-starry_night.jpg",
+		"dimensions": {
+			"width": 0.91,
+			"height": 0.7366
+		}
+
+	},
+	{
+		"id": 4,
+		"title": "Wedding Supper",
+		"artist": "Martin van Meytens",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wedding_Supper_-_Martin_van_Meytens_-_Google_Cultural_Institute.jpg/810px-Wedding_Supper_-_Martin_van_Meytens_-_Google_Cultural_Institute.jpg",
+		"dimensions": {
+			"width": 3,
+			"height": 4
+		}
+	},
+	{
+		"id": 5,
+		"title": "Afternoon Tea at the Temple",
+		"artist": "Michel-Barthélémy Ollivier",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Michel-Barth%C3%A9l%C3%A9my_Ollivier_-_Afternoon_Tea_at_the_Temple_-_WGA16645.jpg",
+		"dimensions": {
+			"width": 0.68,
+			"height": 0.53
+		}
+	},
+	{
+		"id": 6,
+		"title": "Girl with a Pearl Earring",
+		"artist": "Johannesburg Vermeer",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/875px-Meisje_met_de_parel.jpg",
+		"dimensions": {
+			"width": 0.39,
+			"height": 0.445
+		}
+	},
+	{
+		"id": 7,
+		"title": "A Bar at the Folies-Bergère",
+		"artist": "Édouard Manet",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Un_bar_aux_Folies-Bergère_d%27E._Manet_%28Fondation_Vuitton%2C_Paris%29_%2833539037428%29.jpg/1280px-Un_bar_aux_Folies-Bergère_d%27E._Manet_%28Fondation_Vuitton%2C_Paris%29_%2833539037428%29.jpg",
+		"dimensions": {
+			"width": 1.30,
+			"height": 0.96
+		}
+	}
+
 ]
